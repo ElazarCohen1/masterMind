@@ -1,0 +1,20 @@
+Ce jeu ce joue entre 1 et 4 joueur inclus. 
+Il y'a 5 billes par joueur 
+
+affichage : 
+   languettes vertical : blanches
+   languettes horizontal : oranges
+   les deux languettes superposes : Violet 
+   Troues : Noirs 
+
+but du jeu : 
+   Avec un joueur : faire tomber les billes
+   en moins de coup possible en tirant ou 
+   poussant les languettes 
+
+   Avec plusieurs joueurs : faire tomber les billes 
+   des autres joueurs sans faire tomber les siennes 
+
+ 
+
+                     Bonne partie !!!!!
